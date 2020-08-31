@@ -1,0 +1,14 @@
+{
+  "name": "@deskeen/web-builder-replace-constants",
+  "version": "0.1.0",
+  "description": "Web Builder Module - Replace Constants",
+  "author": "Morgan Schmiedt",
+  "license": "MIT",
+  "repository": "https://github.com/deskeen/web-builder-replace-constants",
+  "keywords": [
+    "build",
+    "website",
+    "node.js"
+  ],
+  "main": "src/module.js"
+}
