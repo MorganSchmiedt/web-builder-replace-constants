@@ -21,7 +21,7 @@ And add the module to the list of modules:
 
 ```javascript
 const builder = require('@deskeen/web-builder')
-const builder.build([
+await builder.build({
   source: [
     // List of files or directories
   ],
@@ -35,7 +35,7 @@ const builder.build([
       }
     ]
   ]
-])
+})
 ```
 
 ### Example
